@@ -1,0 +1,30 @@
+Running Sniffles2, build 2.2
+  Run Mode: call_sample
+  Start on: 2023/08/01 14:25:08
+  Working dir: /public/home/xiayini/project/nanopore_ATRX/2_vcf_analysis/readme
+  Used command: /public/home/xiayini/anaconda3/bin/sniffles --input /public/home/xiayini/project/nanopore_ATRX/2_vcf_analysis/data/joint_multi/merge.sorted.bam --reference /public/home/xiayini/reference/chm13v2.0.name.fa --tandem-repeats /public/home/xiayini/reference/human_GRCh38_no_alt_analysis_set.trf.bed --vcf /public/home/xiayini/project/nanopore_ATRX/2_vcf_analysis/data/joint_multi/joint__a509_a509_2.vcf --output-rnames
+==============================
+Opening for reading: /public/home/xiayini/project/nanopore_ATRX/2_vcf_analysis/data/joint_multi/merge.sorted.bam
+Opening for reading: /public/home/xiayini/reference/human_GRCh38_no_alt_analysis_set.trf.bed (tandem repeat annotations for 187 contigs)
+Opening for reading: /public/home/xiayini/reference/chm13v2.0.name.fa
+Opening for writing: /public/home/xiayini/project/nanopore_ATRX/2_vcf_analysis/data/joint_multi/joint__a509_a509_2.vcf (single-sample, sorted)
+Info: 24 of 25 contigs in the input sample have associated tandem repeat annotations.
+
+Analyzing 6125924 alignments total...
+
+ 437455/6125924 alignments processed (7%, 1842/s); 4/25 tasks done; parallel 4/4; 2484 SVs. 
+ 857602/6125924 alignments processed (13%, 1821/s); 7/25 tasks done; parallel 4/4; 4953 SVs. 
+1201576/6125924 alignments processed (19%, 1897/s); 9/25 tasks done; parallel 4/4; 6455 SVs. 
+1672155/6125924 alignments processed (27%, 1850/s); 11/25 tasks done; parallel 4/4; 8013 SVs. 
+2113756/6125924 alignments processed (34%, 2020/s); 13/25 tasks done; parallel 4/4; 10076 SVs. 
+2630152/6125924 alignments processed (42%, 1821/s); 15/25 tasks done; parallel 4/4; 11922 SVs. 
+2896991/6125924 alignments processed (47%, 1927/s); 16/25 tasks done; parallel 4/4; 13105 SVs. 
+3217781/6125924 alignments processed (52%, 2012/s); 17/25 tasks done; parallel 4/4; 14402 SVs. 
+3792780/6125924 alignments processed (61%, 1829/s); 19/25 tasks done; parallel 4/4; 16818 SVs. 
+4100256/6125924 alignments processed (66%, 1895/s); 20/25 tasks done; parallel 4/4; 18089 SVs. 
+4447050/6125924 alignments processed (72%, 1928/s); 21/25 tasks done; parallel 4/4; 19322 SVs. 
+6125924/6125924 alignments processed (100%, 2083/s); 25/25 tasks done; parallel 0/4; 25424 SVs. 
+Took 2939.84s.
+
+Done.
+Wrote 25424 called SVs to /public/home/xiayini/project/nanopore_ATRX/2_vcf_analysis/data/joint_multi/joint__a509_a509_2.vcf (single-sample, sorted)

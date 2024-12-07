@@ -1,0 +1,417 @@
+supported reads:2
+30445612
+chr1-------modifis_grow coverage_rate:.003288
+30445612
+chr1-------modifis_disappear coverage_rate:.000851
+30445612
+chr1-------all coverage_rate:.016962
+13681344
+chr2-------modifis_grow coverage_rate:.004403
+13681344
+chr2-------modifis_disappear coverage_rate:.001527
+13681344
+chr2-------all coverage_rate:.029608
+15610325
+chr3-------modifis_grow coverage_rate:.002291
+15610325
+chr3-------modifis_disappear coverage_rate:.000747
+15610325
+chr3-------all coverage_rate:.016358
+15165357
+chr4-------modifis_grow coverage_rate:.003124
+15165357
+chr4-------modifis_disappear coverage_rate:.001039
+15165357
+chr4-------all coverage_rate:.020196
+12519423
+chr5-------modifis_grow coverage_rate:.003075
+12519423
+chr5-------modifis_disappear coverage_rate:.001059
+12519423
+chr5-------all coverage_rate:.019184
+12771702
+chr6-------modifis_grow coverage_rate:.002418
+12771702
+chr6-------modifis_disappear coverage_rate:.000829
+12771702
+chr6-------all coverage_rate:.017417
+13300128
+chr7-------modifis_grow coverage_rate:.004839
+13300128
+chr7-------modifis_disappear coverage_rate:.001855
+13300128
+chr7-------all coverage_rate:.032436
+12081535
+chr8-------modifis_grow coverage_rate:.003977
+12081535
+chr8-------modifis_disappear coverage_rate:.001370
+12081535
+chr8-------all coverage_rate:.029048
+41741244
+chr9-------modifis_grow coverage_rate:.002256
+41741244
+chr9-------modifis_disappear coverage_rate:.000498
+41741244
+chr9-------all coverage_rate:.011283
+12030796
+chr10-------modifis_grow coverage_rate:.004298
+12030796
+chr10-------modifis_disappear coverage_rate:.001426
+12030796
+chr10-------all coverage_rate:.027410
+13351537
+chr11-------modifis_grow coverage_rate:.004141
+13351537
+chr11-------modifis_disappear coverage_rate:.001560
+13351537
+chr11-------all coverage_rate:.027348
+12581992
+chr12-------modifis_grow coverage_rate:.003502
+12581992
+chr12-------modifis_disappear coverage_rate:.001233
+12581992
+chr12-------all coverage_rate:.024065
+22498291
+chr13-------modifis_grow coverage_rate:.002325
+22498291
+chr13-------modifis_disappear coverage_rate:.000848
+22498291
+chr13-------all coverage_rate:.016525
+17708240
+chr14-------modifis_grow coverage_rate:.004852
+17708240
+chr14-------modifis_disappear coverage_rate:.001814
+17708240
+chr14-------all coverage_rate:.031987
+22694129
+chr15-------modifis_grow coverage_rate:.004312
+22694129
+chr15-------modifis_disappear coverage_rate:.001282
+22694129
+chr15-------all coverage_rate:.027260
+26371185
+chr16-------modifis_grow coverage_rate:.004667
+26371185
+chr16-------modifis_disappear coverage_rate:.001291
+26371185
+chr16-------all coverage_rate:.024273
+13594520
+chr17-------modifis_grow coverage_rate:.004774
+13594520
+chr17-------modifis_disappear coverage_rate:.001702
+13594520
+chr17-------all coverage_rate:.033683
+14967852
+chr18-------modifis_grow coverage_rate:.004081
+14967852
+chr18-------modifis_disappear coverage_rate:.001359
+14967852
+chr18-------all coverage_rate:.027510
+15112596
+chr19-------modifis_grow coverage_rate:.004075
+15112596
+chr19-------modifis_disappear coverage_rate:.001629
+15112596
+chr19-------all coverage_rate:.028102
+16585878
+chr20-------modifis_grow coverage_rate:.004423
+16585878
+chr20-------modifis_disappear coverage_rate:.001552
+16585878
+chr20-------all coverage_rate:.031017
+16341849
+chr21-------modifis_grow coverage_rate:.005618
+16341849
+chr21-------modifis_disappear coverage_rate:.002023
+16341849
+chr21-------all coverage_rate:.036164
+20711065
+chr22-------modifis_grow coverage_rate:.005397
+20711065
+chr22-------modifis_disappear coverage_rate:.001941
+20711065
+chr22-------all coverage_rate:.034132
+13106919
+chrX-------modifis_grow coverage_rate:.002654
+13106919
+chrX-------modifis_disappear coverage_rate:.000448
+13106919
+chrX-------all coverage_rate:.013512
+supported reads:4
+30445612
+chr1-------modifis_grow coverage_rate:.002477
+30445612
+chr1-------modifis_disappear coverage_rate:.000715
+30445612
+chr1-------all coverage_rate:.013557
+13681344
+chr2-------modifis_grow coverage_rate:.003691
+13681344
+chr2-------modifis_disappear coverage_rate:.001323
+13681344
+chr2-------all coverage_rate:.025455
+15610325
+chr3-------modifis_grow coverage_rate:.001832
+15610325
+chr3-------modifis_disappear coverage_rate:.000601
+15610325
+chr3-------all coverage_rate:.013408
+15165357
+chr4-------modifis_grow coverage_rate:.002436
+15165357
+chr4-------modifis_disappear coverage_rate:.000850
+15165357
+chr4-------all coverage_rate:.016809
+12519423
+chr5-------modifis_grow coverage_rate:.002555
+12519423
+chr5-------modifis_disappear coverage_rate:.000921
+12519423
+chr5-------all coverage_rate:.016388
+12771702
+chr6-------modifis_grow coverage_rate:.002147
+12771702
+chr6-------modifis_disappear coverage_rate:.000716
+12771702
+chr6-------all coverage_rate:.015327
+13300128
+chr7-------modifis_grow coverage_rate:.004127
+13300128
+chr7-------modifis_disappear coverage_rate:.001646
+13300128
+chr7-------all coverage_rate:.028372
+12081535
+chr8-------modifis_grow coverage_rate:.003342
+12081535
+chr8-------modifis_disappear coverage_rate:.001149
+12081535
+chr8-------all coverage_rate:.024547
+41741244
+chr9-------modifis_grow coverage_rate:.001319
+41741244
+chr9-------modifis_disappear coverage_rate:.000386
+41741244
+chr9-------all coverage_rate:.008096
+12030796
+chr10-------modifis_grow coverage_rate:.003704
+12030796
+chr10-------modifis_disappear coverage_rate:.001253
+12030796
+chr10-------all coverage_rate:.023846
+13351537
+chr11-------modifis_grow coverage_rate:.003734
+13351537
+chr11-------modifis_disappear coverage_rate:.001397
+13351537
+chr11-------all coverage_rate:.024546
+12581992
+chr12-------modifis_grow coverage_rate:.003110
+12581992
+chr12-------modifis_disappear coverage_rate:.001078
+12581992
+chr12-------all coverage_rate:.021221
+22498291
+chr13-------modifis_grow coverage_rate:.001761
+22498291
+chr13-------modifis_disappear coverage_rate:.000698
+22498291
+chr13-------all coverage_rate:.013506
+17708240
+chr14-------modifis_grow coverage_rate:.003556
+17708240
+chr14-------modifis_disappear coverage_rate:.001491
+17708240
+chr14-------all coverage_rate:.025724
+22694129
+chr15-------modifis_grow coverage_rate:.002956
+22694129
+chr15-------modifis_disappear coverage_rate:.001039
+22694129
+chr15-------all coverage_rate:.021786
+26371185
+chr16-------modifis_grow coverage_rate:.002854
+26371185
+chr16-------modifis_disappear coverage_rate:.001028
+26371185
+chr16-------all coverage_rate:.017909
+13594520
+chr17-------modifis_grow coverage_rate:.003843
+13594520
+chr17-------modifis_disappear coverage_rate:.001416
+13594520
+chr17-------all coverage_rate:.028023
+14967852
+chr18-------modifis_grow coverage_rate:.003369
+14967852
+chr18-------modifis_disappear coverage_rate:.001173
+14967852
+chr18-------all coverage_rate:.023708
+15112596
+chr19-------modifis_grow coverage_rate:.003467
+15112596
+chr19-------modifis_disappear coverage_rate:.001412
+15112596
+chr19-------all coverage_rate:.024111
+16585878
+chr20-------modifis_grow coverage_rate:.003637
+16585878
+chr20-------modifis_disappear coverage_rate:.001308
+16585878
+chr20-------all coverage_rate:.026171
+16341849
+chr21-------modifis_grow coverage_rate:.003506
+16341849
+chr21-------modifis_disappear coverage_rate:.001583
+16341849
+chr21-------all coverage_rate:.026878
+20711065
+chr22-------modifis_grow coverage_rate:.004039
+20711065
+chr22-------modifis_disappear coverage_rate:.001619
+20711065
+chr22-------all coverage_rate:.027608
+13106919
+chrX-------modifis_grow coverage_rate:.001195
+13106919
+chrX-------modifis_disappear coverage_rate:.000203
+13106919
+chrX-------all coverage_rate:.006223
+supported reads:5
+30445612
+chr1-------modifis_grow coverage_rate:.002231
+30445612
+chr1-------modifis_disappear coverage_rate:.000633
+30445612
+chr1-------all coverage_rate:.011988
+13681344
+chr2-------modifis_grow coverage_rate:.003368
+13681344
+chr2-------modifis_disappear coverage_rate:.001153
+13681344
+chr2-------all coverage_rate:.022701
+15610325
+chr3-------modifis_grow coverage_rate:.001692
+15610325
+chr3-------modifis_disappear coverage_rate:.000511
+15610325
+chr3-------all coverage_rate:.011865
+15165357
+chr4-------modifis_grow coverage_rate:.002216
+15165357
+chr4-------modifis_disappear coverage_rate:.000723
+15165357
+chr4-------all coverage_rate:.014939
+12519423
+chr5-------modifis_grow coverage_rate:.002344
+12519423
+chr5-------modifis_disappear coverage_rate:.000820
+12519423
+chr5-------all coverage_rate:.014693
+12771702
+chr6-------modifis_grow coverage_rate:.002025
+12771702
+chr6-------modifis_disappear coverage_rate:.000627
+12771702
+chr6-------all coverage_rate:.013915
+13300128
+chr7-------modifis_grow coverage_rate:.003807
+13300128
+chr7-------modifis_disappear coverage_rate:.001469
+13300128
+chr7-------all coverage_rate:.025730
+12081535
+chr8-------modifis_grow coverage_rate:.003115
+12081535
+chr8-------modifis_disappear coverage_rate:.000999
+12081535
+chr8-------all coverage_rate:.021965
+41741244
+chr9-------modifis_grow coverage_rate:.001085
+41741244
+chr9-------modifis_disappear coverage_rate:.000322
+41741244
+chr9-------all coverage_rate:.006814
+12030796
+chr10-------modifis_grow coverage_rate:.003439
+12030796
+chr10-------modifis_disappear coverage_rate:.001113
+12030796
+chr10-------all coverage_rate:.021505
+13351537
+chr11-------modifis_grow coverage_rate:.003518
+13351537
+chr11-------modifis_disappear coverage_rate:.001261
+13351537
+chr11-------all coverage_rate:.022562
+12581992
+chr12-------modifis_grow coverage_rate:.002888
+12581992
+chr12-------modifis_disappear coverage_rate:.000950
+12581992
+chr12-------all coverage_rate:.019220
+22498291
+chr13-------modifis_grow coverage_rate:.001574
+22498291
+chr13-------modifis_disappear coverage_rate:.000600
+22498291
+chr13-------all coverage_rate:.011966
+17708240
+chr14-------modifis_grow coverage_rate:.003096
+17708240
+chr14-------modifis_disappear coverage_rate:.001279
+17708240
+chr14-------all coverage_rate:.022519
+22694129
+chr15-------modifis_grow coverage_rate:.002636
+22694129
+chr15-------modifis_disappear coverage_rate:.000917
+22694129
+chr15-------all coverage_rate:.019793
+26371185
+chr16-------modifis_grow coverage_rate:.002371
+26371185
+chr16-------modifis_disappear coverage_rate:.000861
+26371185
+chr16-------all coverage_rate:.015192
+13594520
+chr17-------modifis_grow coverage_rate:.003505
+13594520
+chr17-------modifis_disappear coverage_rate:.001228
+13594520
+chr17-------all coverage_rate:.024964
+14967852
+chr18-------modifis_grow coverage_rate:.003102
+14967852
+chr18-------modifis_disappear coverage_rate:.001031
+14967852
+chr18-------all coverage_rate:.021427
+15112596
+chr19-------modifis_grow coverage_rate:.003193
+15112596
+chr19-------modifis_disappear coverage_rate:.001241
+15112596
+chr19-------all coverage_rate:.021564
+16585878
+chr20-------modifis_grow coverage_rate:.003362
+16585878
+chr20-------modifis_disappear coverage_rate:.001134
+16585878
+chr20-------all coverage_rate:.023415
+16341849
+chr21-------modifis_grow coverage_rate:.003042
+16341849
+chr21-------modifis_disappear coverage_rate:.001362
+16341849
+chr21-------all coverage_rate:.023595
+20711065
+chr22-------modifis_grow coverage_rate:.003600
+20711065
+chr22-------modifis_disappear coverage_rate:.001411
+20711065
+chr22-------all coverage_rate:.024459
+13106919
+chrX-------modifis_grow coverage_rate:.000759
+13106919
+chrX-------modifis_disappear coverage_rate:.000120
+13106919
+chrX-------all coverage_rate:.003779

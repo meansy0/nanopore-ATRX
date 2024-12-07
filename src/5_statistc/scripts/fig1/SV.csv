@@ -1,0 +1,3 @@
+SampleID,new_total_SV,new_BND_SV,new_DEL_SV,new_DUP_SV,new_INS_SV,new_INV_SV,missing_total_SV,missing_BND_SV,missingDEL_SV,missing_DUP_SV,missing_INS_SV,missing_INV_SV
+ATRX-P7vsP0,108,1,67,1,37,2,85,0,45,0,40,0
+ATRX-P16vsP7,305,2,215,1,86,1,85,1,56,1,27,0

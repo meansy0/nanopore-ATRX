@@ -1,0 +1,30 @@
+ONT Guppy basecalling software version 6.5.7+ca6d6af, minimap2 version 2.24-r1122
+config file:        /public/home/xiayini/software/opt/ont/guppy/data/dna_r9.4.1_450bps_modbases_dam-dcm-cpg_hac.cfg
+model file:         /public/home/xiayini/software/opt/ont/guppy/data/template_r9.4.1_450bps_modbases_dam-dcm-cpg_hac.jsn
+input path:         /public/home/xiayini/project/nanopore_ATRX/1_upstream_analysis/data/a509_3/
+save path:          /public/home/xiayini/project/nanopore_ATRX/1_upstream_analysis/results/a509_3/
+chunk size:         2000
+chunks per runner:  512
+records per file:   4000
+num basecallers:    4
+gpu device:         cuda:0
+kernel path:        
+runners per device: 4
+
+alignment file:     /public/home/xiayini/reference/chm13v2.0.name.fa
+alignment type:     auto
+
+Use of this software is permitted solely under the terms of the end user license agreement (EULA).
+By running, copying or accessing this software, you are demonstrating your acceptance of the EULA.
+The EULA may be found in /opt/ont/guppy/bin
+loading new index: /public/home/xiayini/reference/chm13v2.0.name.fa
+Full alignment will be performed.
+Found 536 input read files to process.
+Init time: 139814 ms
+
+0%   10   20   30   40   50   60   70   80   90   100%
+|----|----|----|----|----|----|----|----|----|----|
+***************************************************
+Caller time: 279614529 ms, Samples called: 653723421015, samples/s: 2.33794e+06
+Finishing up any open output files.
+Basecalling completed successfully.

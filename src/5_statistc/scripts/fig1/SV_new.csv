@@ -1,0 +1,4 @@
+SampleID,new_total_SV,dis_total_SV,new_DEL_SV,dis_DEL_SV,new_INS_SV,dis_INS_SV,new_INV_SV,dis_INV_SV,new_BND_SV,dis_BND_SV
+Control-P0,73,97,45,55,28,40,0,0,0,2
+ATRX-P7,68,61,37,42,29,19,2,0,,0
+ATRX-P16,184,36,119,25,65,11,0,0,,0

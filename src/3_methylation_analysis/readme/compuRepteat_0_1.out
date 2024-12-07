@@ -1,0 +1,219 @@
+supported reads:2
+chr21-------modifis_grow:0.59
+chr19-------modifis_grow:0.63
+chr9-------modifis_grow:0.62
+chr14-------modifis_grow:0.62
+chr4-------modifis_grow:0.63
+chr20-------modifis_grow:0.58
+chr8-------modifis_grow:0.59
+chr12-------modifis_grow:0.63
+chr15-------modifis_grow:0.61
+chr17-------modifis_grow:0.59
+chr22-------modifis_grow:0.60
+chr16-------modifis_grow:0.63
+chr3-------modifis_grow:0.62
+chrY-------modifis_grow:0.86
+chr11-------modifis_grow:0.58
+chr7-------modifis_grow:0.61
+chr13-------modifis_grow:0.61
+chr10-------modifis_grow:0.58
+chr18-------modifis_grow:0.59
+chr14-------modifis_disappear:0.58
+chrX-------modifis_grow:0.67
+chr17-------modifis_disappear:0.54
+chr6-------modifis_grow:0.60
+chr20-------modifis_disappear:0.54
+chr3-------modifis_disappear:0.59
+chr8-------modifis_disappear:0.56
+chr11-------modifis_disappear:0.55
+chr1-------modifis_grow:0.62
+chr5-------modifis_grow:0.61
+chr4-------modifis_disappear:0.62
+chr21-------modifis_disappear:0.55
+chr18-------modifis_disappear:0.55
+chr22-------modifis_disappear:0.56
+chr2-------modifis_grow:0.58
+chr19-------modifis_disappear:0.58
+chrY-------modifis_disappear:0.84
+chr9-------modifis_disappear:0.56
+chr7-------modifis_disappear:0.58
+chr12-------modifis_disappear:0.60
+chr15-------modifis_disappear:0.57
+chr13-------modifis_disappear:0.58
+chr6-------modifis_disappear:0.57
+chr16-------modifis_disappear:0.56
+chr1-------modifis_disappear:0.58
+chr10-------modifis_disappear:0.55
+chrX-------modifis_disappear:0.70
+chr5-------modifis_disappear:0.59
+chr2-------modifis_disappear:0.55
+chrY-------all:0.83
+chr21-------all:0.57
+chr20-------all:0.57
+chr14-------all:0.61
+chr22-------all:0.58
+chr4-------all:0.63
+chr13-------all:0.59
+chr19-------all:0.62
+chr11-------all:0.57
+chr18-------all:0.57
+chr8-------all:0.59
+chr12-------all:0.63
+chr16-------all:0.59
+chr15-------all:0.60
+chr17-------all:0.59
+chrX-------all:0.70
+chr9-------all:0.60
+chr10-------all:0.57
+chr3-------all:0.62
+chr5-------all:0.61
+chr6-------all:0.60
+chr7-------all:0.60
+chr2-------all:0.58
+chr1-------all:0.61
+supported reads:4
+skip:4 modifis_grow
+skip:7 modifis_grow
+skip:6 modifis_grow
+skip:8 modifis_grow
+skip:5 modifis_grow
+skip:3 modifis_grow
+skip--chr4:modifis_disappear
+skip--chr7:modifis_disappear
+skip--chr6:modifis_disappear
+skip--chr8:modifis_disappear
+skip--chr5:modifis_disappear
+skip--chr3:modifis_disappear
+skip:4 all
+skip:7 all
+skip:6 all
+skip:8 all
+skip:5 all
+skip:3 all
+chr21-------modifis_grow:0.61
+chrY-------modifis_grow:0.85
+chr18-------modifis_grow:0.60
+chr14-------modifis_grow:0.63
+chr16-------modifis_grow:0.63
+chr2-------modifis_grow:0.60
+chr15-------modifis_grow:0.62
+chr22-------modifis_grow:0.62
+chr11-------modifis_grow:0.60
+chr9-------modifis_grow:0.62
+chr20-------modifis_grow:0.60
+chr19-------modifis_grow:0.66
+chr12-------modifis_grow:0.65
+chr1-------modifis_grow:0.63
+chr17-------modifis_grow:0.61
+chr21-------modifis_disappear:0.56
+chr18-------modifis_disappear:0.57
+chr13-------modifis_grow:0.62
+chrX-------modifis_grow:0.71
+chr10-------modifis_grow:0.60
+chr16-------modifis_disappear:0.57
+chr15-------modifis_disappear:0.58
+chr2-------modifis_disappear:0.57
+chr22-------modifis_disappear:0.57
+chrY-------modifis_disappear:0.87
+chr20-------modifis_disappear:0.55
+chr14-------modifis_disappear:0.60
+chrX-------modifis_disappear:0.76
+chr11-------modifis_disappear:0.57
+chr12-------modifis_disappear:0.62
+chr17-------modifis_disappear:0.56
+chr1-------modifis_disappear:0.59
+chr19-------modifis_disappear:0.60
+chr9-------modifis_disappear:0.57
+chr13-------modifis_disappear:0.60
+chr10-------modifis_disappear:0.57
+chrY-------all:0.84
+chr21-------all:0.59
+chr22-------all:0.60
+chr18-------all:0.59
+chrX-------all:0.75
+chr16-------all:0.60
+chr15-------all:0.61
+chr14-------all:0.62
+chr20-------all:0.59
+chr19-------all:0.65
+chr13-------all:0.61
+chr11-------all:0.59
+chr17-------all:0.61
+chr12-------all:0.65
+chr9-------all:0.61
+chr10-------all:0.59
+chr2-------all:0.60
+chr1-------all:0.63
+supported reads:5
+skip:3 modifis_grow
+skip:1 modifis_grow
+skip:7 modifis_grow
+skip:5 modifis_grow
+skip:6 modifis_grow
+skip:4 modifis_grow
+skip:8 modifis_grow
+skip--chr3:modifis_disappear
+skip--chr1:modifis_disappear
+skip--chr7:modifis_disappear
+skip--chr5:modifis_disappear
+skip--chr6:modifis_disappear
+skip--chr4:modifis_disappear
+skip--chr8:modifis_disappear
+skip:3 all
+skip:1 all
+skip:7 all
+skip:5 all
+skip:6 all
+skip:4 all
+skip:8 all
+chrY-------modifis_grow:0.86
+chr22-------modifis_grow:0.63
+chr13-------modifis_grow:0.63
+chr14-------modifis_grow:0.64
+chr11-------modifis_grow:0.61
+chr17-------modifis_grow:0.62
+chr18-------modifis_grow:0.61
+chr19-------modifis_grow:0.67
+chr16-------modifis_grow:0.64
+chr9-------modifis_grow:0.63
+chr12-------modifis_grow:0.66
+chr21-------modifis_grow:0.62
+chrX-------modifis_grow:0.74
+chr15-------modifis_grow:0.62
+chr20-------modifis_grow:0.61
+chr10-------modifis_grow:0.62
+chr13-------modifis_disappear:0.61
+chrY-------modifis_disappear:0.89
+chr19-------modifis_disappear:0.62
+chr17-------modifis_disappear:0.58
+chr22-------modifis_disappear:0.59
+chr2-------modifis_grow:0.61
+chr14-------modifis_disappear:0.61
+chr18-------modifis_disappear:0.59
+chr9-------modifis_disappear:0.59
+chr12-------modifis_disappear:0.64
+chr16-------modifis_disappear:0.59
+chrX-------modifis_disappear:0.80
+chr21-------modifis_disappear:0.58
+chr20-------modifis_disappear:0.57
+chr11-------modifis_disappear:0.59
+chr15-------modifis_disappear:0.59
+chr10-------modifis_disappear:0.58
+chrY-------all:0.86
+chr2-------modifis_disappear:0.59
+chr13-------all:0.63
+chr21-------all:0.60
+chrX-------all:0.79
+chr18-------all:0.60
+chr19-------all:0.67
+chr22-------all:0.62
+chr9-------all:0.62
+chr14-------all:0.64
+chr20-------all:0.60
+chr12-------all:0.67
+chr17-------all:0.63
+chr16-------all:0.62
+chr15-------all:0.62
+chr11-------all:0.61
+chr10-------all:0.61
+chr2-------all:0.61
