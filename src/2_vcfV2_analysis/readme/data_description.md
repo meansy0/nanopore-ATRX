@@ -1,1 +1,0 @@
-filter the secondary ailgnment reads for higher accuracy
