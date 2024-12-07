@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "/public/home/xiayini/project/nanopore_ATRX/2_vcf_analysis/scripts/vcf_deal.py", line 17, in <module>
-    vcf_reader = open(vcf_file,'r')
-FileNotFoundError: [Errno 2] No such file or directory: '/public/home/xiayini/project/nanopore_ATRX/2_vcf_analysis/data/joint_multi/difference_a509/joint_a509.vcf'
