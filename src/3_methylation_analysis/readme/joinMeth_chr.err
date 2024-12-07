@@ -1,1 +1,0 @@
-awk: cmd. line:1: (FILENAME=/public/home/xiayini/project/nanopore_ATRX/3_methylation_analysis/results/filter5Reads/s31222_a509_a509_2/chr9.merge.pileup FNR=114457464) fatal: more_nodes: nextfree: can't allocate 6400 bytes of memory (Cannot allocate memory)
