@@ -1,5 +1,12 @@
 # Nanopore DNA Data Analysis for ATRX Knockdown and Methylation & Structural Variant (SV) Detection
 
+**Date**: From 2023-7 to 2023-12 
+**Author**: QiniXia  
+**Current Status**: Manuscript in progress  
+
+---
+
+
 ## Project Overview
 
 This project utilizes Nanopore long-read sequencing data to investigate the effects of ATRX gene knockdown on the methylation and structural variations (SVs) in human glioblastoma cells. The analysis includes four groups of data: control, ATRX knockdown at 0 days, 7 days, and 16 days. The primary aim is to explore the dynamics of SVs, particularly in repetitive regions such as telomeres and centromeres, and their potential role in cancer development.
@@ -56,7 +63,7 @@ ATRX knockdown leads to a significant increase in structural variants, particula
 
 ## Code and Scripts
 
-All analysis scripts were developed by Qinixia and are available in the `src/` directory of the repository. The project was conducted from July 2023 to December 2023.
+All analysis scripts were developed by Qinixia and are available in the `src/` directory of the repository.
 
 ## Contact
 
