@@ -60,5 +60,5 @@ All analysis scripts were developed by Qinixia and are available in the `src/` d
 
 ## Contact
 
-For questions or further collaboration inquiries, please contact Qinixia at qinixia77@gmail.com.
+For questions or further collaboration inquiries, please contact me at qinixia77@gmail.com.
 
